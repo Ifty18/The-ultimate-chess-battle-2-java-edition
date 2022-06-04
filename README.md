@@ -2,14 +2,15 @@
 Another chess game but this time in java :D
 
 Donation System
+
 Proiectul meu este o mica aplicatie de management pentru un sistem de donatii de sange. Utiliazatorul poate sa vizualizeze toti donatorii din baza de date, pot cauta donatorii cu o anumita grupa de sange si pot verifica daca un donator(id) poate dona in ziua respectiva.
 
 Aplicatia foloseste ca limbaje de programare java si plsql. Acesta are o componenta grafica (o interfata creata folosing pachetul java swing) si o baza de date Oracle.
 
 In baza de date exista tabelele:
-    - Donator (id, nume, blood type, nr contact, eligibility)
-    - Inventory (id_donor, idBag) 
-    - Donation (id_donor, date, id_donation)
+* Donator (id, nume, blood type, nr contact, eligibility)
+* Inventory (id_donor, idBag) 
+* Donation (id_donor, date, id_donation)
 
 Interfata grafica contine:
     - Butonul <<View Donors>>, apeleaza functia view, ce creaza un frame nou in care sunt afisati donatorii intr-un tabel.
