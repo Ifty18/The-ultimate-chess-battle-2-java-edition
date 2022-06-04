@@ -1,7 +1,7 @@
 # The-ultimate-chess-battle-2-java-edition
 Another chess game but this time in java :D
 
-Donation System
+# Donation System
 
 Proiectul meu este o mica aplicatie de management pentru un sistem de donatii de sange. Utiliazatorul poate sa vizualizeze toti donatorii din baza de date, pot cauta donatorii cu o anumita grupa de sange si pot verifica daca un donator(id) poate dona in ziua respectiva.
 
